@@ -1,4 +1,14 @@
-### Hi there 👋
+### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Prajyot Parab!
+
+---
+Software Engineer with 4 years of professional IT experience in DevOps Implementation, Build & Release engineering, and Linux administration with the technologies listed in the **toolbox** below. I have extensive experience in working with Cloud Infrastructure Automation, open-source communities, and in a CICD environment.
+
+---
+
+🧰 Toolbox
+
+<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" alt="Docker" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain-wordmark.svg" alt="Kubernetes" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3a/OpenShift-LogoType.svg" alt="OpenShift" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/Ansible_logo.svg" alt="Ansible" width="50" height="50"/> <img src="https://upload.wikimedia.org/wikipedia/commons/0/04/Terraform_Logo.svg" alt="Terraform" width="80" height="80"/> <img src="https://upload.wikimedia.org/wikipedia/commons/8/80/The_OpenStack_logo.svg" alt="OpenStack" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" alt="Github" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/jenkins/jenkins-original.svg" alt="Jenkins" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg" alt="Bash" width="90" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" alt="Linux" width="60" height="60"/>
+---
 
 <!--
 **Prajyot-Parab/Prajyot-Parab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
