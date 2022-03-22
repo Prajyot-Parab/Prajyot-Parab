@@ -17,6 +17,8 @@ Software Engineer with 4 years of professional IT experience in DevOps Implement
 
 [![Prajyot's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajyot-parab&theme=nightowl&show_icons=true&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prajyot-parab&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
 ---
 
 ## 📫 How to reach me
@@ -36,4 +38,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+![](https://komarev.com/ghpvc/?username=prajyot-parab)
 -->
