@@ -17,6 +17,12 @@ Software Engineer with 4 years of professional IT experience in DevOps Implement
 
 [![Prajyot's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajyot-parab&theme=nightowl&show_icons=true&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
+---
+
+## 📫 How to reach me
+<a href="https://www.linkedin.com/in/prajyotparab"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
+<a href="https://prajyotparab1904@gmail.com"><img src="https://img.shields.io/badge/prajyotparab1904@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+
 <!--
 **Prajyot-Parab/Prajyot-Parab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
