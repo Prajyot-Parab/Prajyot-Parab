@@ -1,4 +1,4 @@
-### Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Prajyot Parab!
+### Hey there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Prajyot Parab!
 
 ---
 Software Engineer with 4 years of professional IT experience in DevOps Implementation, Build & Release engineering, and Linux administration with the technologies listed in the **toolbox** below. I have extensive experience in working with Cloud Infrastructure Automation, open-source communities, and in a CICD environment.
@@ -22,8 +22,16 @@ Software Engineer with 4 years of professional IT experience in DevOps Implement
 ---
 
 ## 📫 How to reach me
-<a href="https://www.linkedin.com/in/prajyotparab"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"></img></a>
 <a href="https://prajyotparab1904@gmail.com"><img src="https://img.shields.io/badge/prajyotparab1904@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"></img></a>
+<p align="left">
+<a href="https://www.linkedin.com/in/prajyotparab">
+  <img alt="prajyot's LinkdeIN" width="50px" src="https://user-images.githubusercontent.com/43545812/144035037-0f415fc7-9f96-4517-a370-ccc6e78a714b.png" />
+</a>
+<a href="https://www.instagram.com/parab_prajyot">
+  <img alt="prajyot's Instagram" width="50px" src="https://user-images.githubusercontent.com/43545812/144035088-0dfb165f-8fe0-4d13-896c-876c29d2b128.png" />
+</a>
+<br>
+</p>
 
 <!--
 **Prajyot-Parab/Prajyot-Parab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
