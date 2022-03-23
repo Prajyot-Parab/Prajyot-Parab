@@ -18,11 +18,11 @@ Software Engineer with 4+ years of professional IT experience in DevOps Implemen
 
 ## &#x1f4c8; My GitHub Stats
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajyot-parab&layout=compact&theme=nightowl)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=prajyot-parab&layout=compact&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Prajyot's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajyot-parab&theme=nightowl&show_icons=true&include_all_commits=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
+[![Prajyot's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajyot-parab&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prajyot-parab&theme=nightowl&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prajyot-parab&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 ---
 
