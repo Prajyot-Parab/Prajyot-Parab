@@ -6,7 +6,7 @@
 
 ## 💬 About me
 
-Software Engineer with 5+ years of professional IT experience in DevOps Implementation, Build & Release engineering, and Linux administration with the technologies listed in the **toolbox** below. I have extensive experience in working with Cloud Infrastructure Automation, open-source communities, and in a CICD environment.
+Dedicated Software Engineer with over 5 years of progressive IT experience, combining expertise in DevOps implementation, Build & Release engineering, and Linux administration with the technologies listed in the **toolbox** below. Leveraging extensive knowledge in Cloud Infrastructure Automation, open-source collaboration, and CI/CD ecosystems.
 
 ---
 
