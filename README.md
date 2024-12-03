@@ -6,7 +6,7 @@
 
 ## 💬 About me
 
-Dedicated Software Engineer with over 5 years of progressive IT experience, combining expertise in DevOps implementation, Build & Release engineering, and Linux administration with the technologies listed in the **toolbox** below. Leveraging extensive knowledge in Cloud Infrastructure Automation, open-source collaboration, and CI/CD ecosystems.
+Experienced Software Engineer with over 7 years of progressive IT expertise, specializing in DevOps implementation, Build and Release engineering, and Linux system administration with the technologies listed in the **toolbox** below. Leveraging extensive knowledge in Cloud Infrastructure Automation, open-source collaboration, and CI/CD ecosystems.
 
 ---
 
