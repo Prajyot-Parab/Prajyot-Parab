@@ -6,7 +6,9 @@
 
 [![Prajyot's GitHub stats](https://github-readme-stats.vercel.app/api?username=prajyot-parab&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&show_icons=true&hide=stars)](https://github.com/anuraghazra/github-readme-stats)
 
+<!--
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=prajyot-parab&theme=flag-india&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+-->
 
 <!--
 **Prajyot-Parab/Prajyot-Parab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
